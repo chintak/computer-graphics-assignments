@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9035E8A6-D619-43D3-88E7-D8D5839DDA0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>introduction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9F6B855-15DE-4D56-9B91-05CB7F38697F</key>
+		<string>https://github.com/chintak/computer-graphics-assignments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>introduction.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9F6B855-15DE-4D56-9B91-05CB7F38697F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chintak/computer-graphics-assignments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9F6B855-15DE-4D56-9B91-05CB7F38697F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9F6B855-15DE-4D56-9B91-05CB7F38697F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>computer-graphics-assignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
